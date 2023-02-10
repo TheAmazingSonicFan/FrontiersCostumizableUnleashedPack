@@ -1,19 +1,19 @@
-add SFX_Sound01/raw/sound/sonic_sound/00156.hca
-add SFX_Sound01/raw/sound/sonic_sound/00250.hca
-add SFX_Sound01/raw/sound/sonic_sound/se_rangers_player_sonic.acb
-add chr_FR/raw/character
-add chr_FR_FA_C/raw
-add chr_FR_UA_C/raw
-add chr_SSU/raw/character
-add chr_SSU_FA/raw/character
-add chr_SSU_FA_C/raw/character
-add chr_SSU_UA/raw/character
-add chr_SU/raw
-add chr_SU_FA/raw
-add chr_SU_FA_C/raw
-add chr_SU_UA/raw
-add chr_test/raw/character
-add main/raw
-add ui_Reticle01/raw/ui
-add ui_Reticle02/raw/ui
 add mod.ini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
