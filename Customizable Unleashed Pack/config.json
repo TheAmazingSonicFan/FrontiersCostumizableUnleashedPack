@@ -59,7 +59,7 @@
 	   [
  
 		  {
-			 "DisplayName": "Bracelet Unleashed Sonic",
+			 "DisplayName": "Bracelet Unleashed Sonic, Unleashed Anims",
 			 "Value": "chr_SU",
 			 "Description": [
 				"Uses Sonic's model from Sonic Unleashed with Frontiers Animations."
@@ -140,14 +140,28 @@
 		  	 ]	   	   
 	   	  },
 	   	  {
-		  	 "DisplayName": "Test",
+		  	 "DisplayName": "Bracelet Frontiers Super Sonic, Unleashed Animations",
 		  	 "Value": "chr_test",
 		  	 "Description": [
 				"Uses Super Sonic's model from Sonic Frontiers."
 		  	 ]	   	   
 	   	  },
 	   	  {
-		  	 "DisplayName": "Frontiers Sonic",
+		  	 "DisplayName": "Bracelet Frontiers Super Sonic, Frontiers Animations",
+		  	 "Value": "chr_test2",
+		  	 "Description": [
+				"Uses Super Sonic's model from Sonic Frontiers."
+		  	 ]	   	   
+	   	  },
+	   	  {
+		  	 "DisplayName": "Frontiers Super Sonic, Unleashed Animations",
+		  	 "Value": "chr_test3",
+		  	 "Description": [
+				"Uses Super Sonic's model from Sonic Frontiers."
+		  	 ]	   	   
+	   	  },
+	   	  {
+		  	 "DisplayName": "(Default) Frontiers Super Sonic",
 		  	 "Value": "chr_SFR",
 		  	 "Description": [
 				"Uses Super Sonic's model from Sonic Frontiers."
