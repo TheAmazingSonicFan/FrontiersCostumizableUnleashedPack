@@ -14,3 +14,4 @@ add chr_test/raw/character
 add main/raw
 add ui_Reticle01/raw/ui
 add ui_Reticle02/raw/ui
+add mod.ini
